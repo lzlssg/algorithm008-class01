@@ -2,6 +2,8 @@
 #define _BINARYTREE_H_
 
 #include <iostream>
+#include <stack>
+#include <queue>
 
 //结点类型
 template <typename T>
